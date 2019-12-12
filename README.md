@@ -1,1 +1,3 @@
-# discredit_enterprises_rank3
+## 识别失信企业大赛
+* 信用评分卡方案
+* 初赛A榜0.934 rank3， B榜0.921 rank51
